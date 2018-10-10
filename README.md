@@ -21,7 +21,7 @@ Restrictions:  the value of score must be non-negative integers.
 Install:
 
 ```
-go get -u https://github.com/ng1091/ranktree
+go get -u github.com/ng1091/ranktree
 ```
 
 Import:
