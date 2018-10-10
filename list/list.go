@@ -1,4 +1,4 @@
-// Package implements a singly linked list.
+// Package list implements a singly linked list.
 package list
 
 type Element struct {

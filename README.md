@@ -99,5 +99,5 @@ Output:
 
 
 
-**Please check  [GoDoc - ranktree]() for more details.**
+**Please check  [GoDoc - ranktree](https://www.godoc.org/github.com/ng1091/ranktree) for more details.**
 
